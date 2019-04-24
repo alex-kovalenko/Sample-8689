@@ -1,0 +1,17 @@
+# OS X
+.DS_Store
+
+# Xcode
+Build
+xcuserdata
+*.xccheckout
+*.xcscmblueprint
+DerivedData
+
+
+# Fastlane
+.idea
+.bundle
+Fastlane/README.md
+Fastlane/report.xml
+Fastlane/*_output
